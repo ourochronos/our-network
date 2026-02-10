@@ -24,6 +24,10 @@ dependencies = [
     "aiohttp>=3.9",
 ]
 
+[project.urls]
+Homepage = "https://github.com/ourochronos/our-network"
+Repository = "https://github.com/ourochronos/our-network"
+
 [project.optional-dependencies]
 dev = [
     "pytest>=8.0",
